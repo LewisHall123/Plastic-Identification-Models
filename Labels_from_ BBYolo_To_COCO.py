@@ -1,4 +1,7 @@
 
+# This code changes the format of the bounding box labels from regular YOLO bounding box to COCO format. 
+
+
 ############# How to use ##############
 # Change paths to images, labels, and output JSON file
 
