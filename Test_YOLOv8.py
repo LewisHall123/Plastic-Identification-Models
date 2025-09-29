@@ -1,5 +1,5 @@
 
-###### There are notes at the bottom of this page
+###### There are notes at the bottom of this page that I wrote for myself as I was quite new to software at the time.
 
 ##########################################
 # How to test a model
